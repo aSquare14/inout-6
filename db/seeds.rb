@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Person.create(name: "Atibhi", fb_link: "link://to/atibhi/")
+Person.create(name: "Athitya", fb_link: "link://to/athitya/")
+Person.create(name: "Piyush", fb_link: "link://to/piyush/")
